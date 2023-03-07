@@ -1,7 +1,7 @@
 import { Fragment, Component } from 'react';
 
 import Users from './Users';
-import classes from './UserFinders.module.css';
+import classes from './UserFinder.module.css';
 
 export const DUMMY_USERS = [
 	{ id: 'u1', name: 'Max' },
