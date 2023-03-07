@@ -1,11 +1,12 @@
+import UserFinder from './components/UserFinders';
 import Users from './components/Users';
 
 function App() {
-  return (
-    <div>
-      <Users />
-    </div>
-  );
+	return (
+		<div>
+			<UserFinder />
+		</div>
+	);
 }
 
 export default App;
